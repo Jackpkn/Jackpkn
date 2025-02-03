@@ -52,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pawan-software-developer)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jackpkn)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PknJack86893))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4081?style=for-the-badge&logo=github)](https://(https://pawan-zulip.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4081?style=for-the-badge&logo=github)](https://pawan-zulip.vercel.app/))  
 
 ---
 
