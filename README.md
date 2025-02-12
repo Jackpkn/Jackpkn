@@ -39,12 +39,6 @@
 🖥️ **[Computer Vision Gesture Control](https://github.com/jackpk/Gesture-Control)** - Hand gesture-based laptop control using OpenCV & IoT.  
 💻 **[Full-Stack E-Commerce App](https://github.com/jackpk/ECommerce-API)** - Scalable e-commerce REST API using **Spring Boot & PostgreSQL**.  
 
----
-
-### 📊 **GitHub Stats**
-![GitHub Streak](https://streak-stats.demolab.com/?user=jackpk&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackpk&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackpk&layout=compact&theme=tokyonight)  
 
 ---
 
