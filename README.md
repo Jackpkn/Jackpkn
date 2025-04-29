@@ -20,7 +20,8 @@ Feel free to reach out to collaborate or just have a tech chat.
 
 ## 📊 GitHub Stats
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackpkn&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=jackpkn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jackpkn&theme=github-compact)
+<img src="https://github-readme-stats.vercel.app/api?username=jackpkn&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackpkn&theme=github-dark" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackpkn&theme=github-compact" alt="GitHub Activity Graph"/>
+
 
